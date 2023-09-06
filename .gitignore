@@ -1,0 +1,6 @@
+#ignora todo el directorio bin
+bin/
+
+#ingorar archivos de configuracion de eclipse
+.classpath
+.project
